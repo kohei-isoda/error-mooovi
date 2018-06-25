@@ -5,3 +5,5 @@
 #
 #   cities = City.create([{ name: 'Chicago' }, { name: 'Copenhagen' }])
 #   Mayor.create(name: 'Emanuel', city: cities.first)
+
+Product.create!(title: 'KILLER TUNE RADIO', image_url: 'http://eiga.k-img.com/images/movie/87143/photo/0b6926718644c640/320.jpg?1495188648', director: '柴野太朗' )
